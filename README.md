@@ -28,7 +28,7 @@ Berikut adalah penjelasan masing-masing kolom dalam dataset:
 
 ## Metodologi
 
-- **Pra-pemrosesan**: Encoding, scaling, handling missing values.
+- **Pra-pemrosesan**: Scaling dan handling missing values.
 - **Modeling**: Algoritma seperti Linear Regression, Ridge, Lasso, KNN Regressor, Decision Tree Regressor, Random Forest Regressor, XG Boost.
 - **Model Asumsi**: Pengecekan menggunakan Normality Residual, Zero Mean of Residuals, Linearity, Homoscedasticity, Correlation Between Residuals and Prediction, No Autocorrelation of Residuals
 - **Evaluasi**: MAE, MAPE, RMSE, MSE, R Squared.
