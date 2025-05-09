@@ -1,4 +1,4 @@
-# USA-House-Price-Prediction
+# USA House Price Prediction
 
 Membangun model machine learning yang mampu memprediksi harga rumah secara akurat berdasarkan data historis dan fitur properti.
 
