@@ -44,3 +44,6 @@ Berikut adalah penjelasan masing-masing kolom dalam dataset:
  ## Tools and Technology
 
 - Python, Pandas, Scikit-Learn, Seaborn
+
+  ---
+  Adrian Irsanda Boestamam
